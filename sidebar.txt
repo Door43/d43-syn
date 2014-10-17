@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[syn:home|Door43 (syn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-syn|d43-syn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-syn/archive/master.zip|d43-syn.zip]]
+
+**Recent Changes**
+{{changes>ns = syn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/syn|Ethnologue data]]
+
